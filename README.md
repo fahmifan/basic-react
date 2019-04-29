@@ -5,7 +5,7 @@
 - [x] Create a repo in github/gitlab/bitbucket/dll
 
 ## Road to React
-- [ ] Learn basic HTML & CSS & Javascript
-- [ ] JSX in React
-- [ ] Components
+- [x] Learn basic HTML & CSS & Javascript
+- [x] JSX in React
+- [x] Components
 - [ ] Statefull & stateless component
